@@ -35,7 +35,7 @@ while i !=  no_of_chars:
 	all_lists.append(listn)
 	i +=1
 	
-print('here are all the lists \n' , '    ~~~     ', all_lists)
+print('here are all the lists \n' , '    ~~~     ', all_lists, '     ~~~     ')
 
 password_container_0 = []
 password_container_1 = []
