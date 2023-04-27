@@ -13,7 +13,7 @@ pkg install git python -y
 ```
 3. clone this package
 ```
-git clone https://github.com/Anonymous0boy/Ad_wordlist_generator.git
+git clone https://github.com/Anonymous0boy/wordgene.git
 ```
 # Linux
 1. Update libraries.
@@ -26,7 +26,7 @@ sudo apt-get install git
 ```
 3. clone this package
 ```
-git clone https://github.com/Anonymous0boy/Ad_wordlist_generator.git
+git clone https://github.com/Anonymous0boy/wordgene.git
 ```
 # Usage
 this is a small and easy to use programm, it first takes input for how many units in a password you want.
